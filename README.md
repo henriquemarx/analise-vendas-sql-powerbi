@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas com SQL e Power BI
+# 📊 Projetos com SQL e Power BI focados em análise de dados
 
 ## 📌 Sobre o projeto
 
