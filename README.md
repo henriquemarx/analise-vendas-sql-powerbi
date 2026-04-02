@@ -1,8 +1,8 @@
-# 📊 Projetos com SQL e Power BI focados em análise de dados
+# 📊 Análise de Vendas com SQL e Power BI
 
 ## 📌 Sobre o projeto
 
-Este projeto tem como objetivo analisar dados de vendas utilizando SQL para extração e transformação dos dados e Power BI para visualização.
+Este projeto analisa dados de vendas com o objetivo de identificar padrões de faturamento, produtos mais relevantes e comportamento de clientes.
 
 ---
 
@@ -22,7 +22,7 @@ Este projeto tem como objetivo analisar dados de vendas utilizando SQL para extr
 
 ---
 
-## 📈 Principais insights
+## 📈 Insights
 
 * O produto Notebook é responsável pela maior parte do faturamento
 * O produto Mouse possui maior volume de vendas
@@ -30,18 +30,14 @@ Este projeto tem como objetivo analisar dados de vendas utilizando SQL para extr
 
 ---
 
-## 📷 DashBoard
+## 📷 Dashboard
 
-![Dashboard](DashBoard.png)
+![Dashboard](dashboard.png)
 
-## 📈 Insights
-- Notebook gera maior faturamento
-- Mouse tem maior volume de vendas
-- Receita concentrada em poucos clientes
 ---
 
 ## 🧠 Aprendizados
 
-* Uso de JOIN em múltiplas tabelas
-* Agregações com SUM e GROUP BY
-* Construção de dashboard no Power BI
+* Uso de JOIN entre múltiplas tabelas
+* Aplicação de SUM e GROUP BY
+* Criação de dashboards no Power BI
