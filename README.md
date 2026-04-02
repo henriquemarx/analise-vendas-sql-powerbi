@@ -30,9 +30,9 @@ Este projeto tem como objetivo analisar dados de vendas utilizando SQL para extr
 
 ---
 
-## 📷 Dashboard
+## 📷 DashBoard
 
-![Dashboard](dashboard.png)
+![Dashboard](DashBoard.png)
 
 ---
 
