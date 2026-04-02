@@ -34,6 +34,10 @@ Este projeto tem como objetivo analisar dados de vendas utilizando SQL para extr
 
 ![Dashboard](DashBoard.png)
 
+## 📈 Insights
+- Notebook gera maior faturamento
+- Mouse tem maior volume de vendas
+- Receita concentrada em poucos clientes
 ---
 
 ## 🧠 Aprendizados
