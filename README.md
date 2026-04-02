@@ -32,7 +32,7 @@ Este projeto analisa dados de vendas com o objetivo de identificar padrões de f
 
 ## 📷 Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](DashBoard.png)
 
 ---
 
